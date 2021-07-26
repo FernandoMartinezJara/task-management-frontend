@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://FernandoMartinezJara.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/main.1879d008.chunk.js",
-    "main.js.map": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/main.1879d008.chunk.js.map",
-    "runtime~main.js": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/runtime~main.befc9ef8.js",
-    "runtime~main.js.map": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/runtime~main.befc9ef8.js.map",
-    "static/js/2.d74cf595.chunk.js": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/2.d74cf595.chunk.js",
-    "static/js/2.d74cf595.chunk.js.map": "https://FernandoMartinezJara.github.io/task-management-frontend/static/js/2.d74cf595.chunk.js.map",
-    "index.html": "https://FernandoMartinezJara.github.io/task-management-frontend/index.html",
-    "precache-manifest.e6b376d66192751c697b97ef082a9ba6.js": "https://FernandoMartinezJara.github.io/task-management-frontend/precache-manifest.e6b376d66192751c697b97ef082a9ba6.js",
-    "service-worker.js": "https://FernandoMartinezJara.github.io/task-management-frontend/service-worker.js",
-    "static/css/main.5ac26d30.chunk.css.map": "https://FernandoMartinezJara.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+    "main.css": "https://fernandomartinezjara.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/main.0e5c73ad.chunk.js",
+    "main.js.map": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/main.0e5c73ad.chunk.js.map",
+    "runtime~main.js": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/runtime~main.ff3510f2.js",
+    "runtime~main.js.map": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/runtime~main.ff3510f2.js.map",
+    "static/js/2.cea4acf6.chunk.js": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/2.cea4acf6.chunk.js",
+    "static/js/2.cea4acf6.chunk.js.map": "https://fernandomartinezjara.github.io/task-management-frontend/static/js/2.cea4acf6.chunk.js.map",
+    "index.html": "https://fernandomartinezjara.github.io/task-management-frontend/index.html",
+    "precache-manifest.0b3dcb3bf8fe8bfa0f8f0cfa375582b8.js": "https://fernandomartinezjara.github.io/task-management-frontend/precache-manifest.0b3dcb3bf8fe8bfa0f8f0cfa375582b8.js",
+    "service-worker.js": "https://fernandomartinezjara.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://fernandomartinezjara.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }
 }
